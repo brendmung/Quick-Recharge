@@ -1,12 +1,17 @@
 # Quick Recharge 📱
 
-A simple Android app that helps you quickly scan and recharge airtime cards in Zimbabwe. Instead of typing recharge numbers manually, just scan your card and get your phone topped up in seconds.
+A simple Android app that helps you quickly scan airtime cards and access common USSD shortcuts in Zimbabwe. Instead of typing recharge numbers manually or remembering USSD codes, just scan your card or tap a shortcut to get things done quickly.
 
 ## Features ✨
 
 - Fast scanning of recharge card numbers
 - Copy numbers to clipboard with one tap
 - Direct dialing for instant recharge
+- Quick access to common USSD shortcuts:
+  - Check balance
+  - Buy data bundles
+  - Check data balance
+  - And more network-specific services
 - Works completely offline
 - Lightweight and easy to use
 
@@ -19,12 +24,18 @@ A simple Android app that helps you quickly scan and recharge airtime cards in Z
 
 ## How to Use 🚀
 
+### Recharge Cards
 1. Open the app
 2. Tap the scan icon 📷
 3. Position your recharge card within the scanner frame
 4. Once detected, you can:
    - Copy the number to clipboard
    - Directly dial to recharge
+
+### USSD Shortcuts
+1. Swipe left to access the shortcut list
+2. Choose from common USSD shortcuts
+3. Tap to execute the USSD code instantly
 
 ## Installation 📥
 
@@ -36,4 +47,4 @@ A simple Android app that helps you quickly scan and recharge airtime cards in Z
 
 - Built for Android
 - Uses Camera2 API for scanning
-- ML Kit for text recognition
+- MachineLearning Kit for text recognition
