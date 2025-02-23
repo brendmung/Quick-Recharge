@@ -39,7 +39,7 @@ A simple Android app that helps you quickly scan airtime cards and access common
 
 ## Installation 📥
 
-1. Download the latest APK from the [Releases](releases) page
+1. Download the latest APK from the [Releases](https://github.com/brendmung/Quick-Recharge/releases) page
 2. Enable "Install from Unknown Sources" in your Android settings
 3. Install and enjoy!
 
